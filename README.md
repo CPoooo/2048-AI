@@ -27,7 +27,7 @@ Collaborations are welcome! If you have ideas for improvements, new features, or
 To run the game locally, ensure you have Python and Pygame installed. Clone this repository and execute the `main.py` file.
 
 ```bash
-git clone https://github.com/CPoooo/2048-AI
+git clone https://github.com/CPoooo/2048-AI.git
 cd 2048-game
 python main.py
 ```
